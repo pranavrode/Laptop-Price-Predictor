@@ -1,6 +1,9 @@
 # Laptop-Price-Predictor 
-This project works on data of different laptop prices according to various specifications of laptop brands. I have done feature engineering on data and have build different Machine Learning models to achieve maximum accuracy and chosen best ML algorithm for best predictions. This project is build to predict price of laptop as per specifications given by customer.  
-Dataset - Regression Type
+This project works on data of different laptop prices according to various specifications of laptop brands. I have done feature engineering on data and have build different Machine Learning models to achieve maximum accuracy and chosen best ML algorithm for best predictions. 
+
+Objective - This project is build to predict price of laptop as per specifications given by customer.  
+Target Feature - Continous - Numerical values
+Model type - Regression
 
 Evaluation metrics used : r2_score , rmse , mae
 
