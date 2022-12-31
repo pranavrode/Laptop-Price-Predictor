@@ -1,5 +1,5 @@
 # Laptop-Price-Predictor 
-This project works on data of different laptop prices according to various specifications of laptop brands. I have done feature engineering on data and have build different Machine Learning models to achieve maximum R2_score with minimum RMSE and MAE. Choosen best ML algorithm for best predictions with its real life working deployment. 
+This project works on data of different laptop prices according to various specifications of laptop brands. I have done feature engineering on data and have build different Machine Learning models to achieve maximum R2_score with minimum RMSE and MAE. Chosen best ML algorithm for best predictions with its real life working deployment. 
 
 ## 1. Business Context: -
 A company providing complete IT hardware to the end user customers like big organisation company selling laptop PCs of different brands and specifications as per needs of customer. So, when customer here visits store to buy laptop firstly he/she will want to know price quote of laptop as customer requirements. This solution can help both customers and store employee to guide about various specification with ease and simplicity. An online ecommerce laptop pc selling site can also use this same solution for above business purpose.
